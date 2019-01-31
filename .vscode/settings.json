@@ -1,0 +1,4 @@
+{
+  "python.pythonPath": "/Users/rigvedpatki/.local/share/virtualenvs/django-react-LwL2lSNy/bin/python",
+  "python.linting.pylintArgs": ["--load-plugins=pylint_django"]
+}
